@@ -1,0 +1,28 @@
+#page {
+  background-color: violet;
+}
+
+#my-header {
+  font-family: Arial, Helvetica, sans-serif;
+  color: purple;
+}
+
+#text {
+  font-size: 115%;
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#name {
+  border: 0;
+  background-color: blueviolet;
+}
+
+#submit-button {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 0;
+  border-radius: 2px;
+  padding: 5px;
+  background-color: blueviolet;
+  color: white;
+}
